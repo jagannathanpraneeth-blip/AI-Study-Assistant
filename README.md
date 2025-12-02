@@ -210,4 +210,4 @@ For questions or issues, please open an GitHub issue or contact the maintainer.
 
 ---
 
-**Made with ❤️ for students learning AI/ML and full-stack development**
+**Made for students **
